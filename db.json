@@ -1,12 +1,45 @@
 {"CardModel": [
   {
  
-  "myBalance": "$2000.00",
-  "cardName": "gold",
-  "cardHolderName": null,
-  "cardNumber": 123,
+  "myBalance": "$2210.00",
+  "cardName": "HDFC Platinum",
+  "cardHolderName": "Will Smith",
+  "cardNumber": 1234 2314 9081 1123,
   "cardCVV": "290",
-  "cardExpireDate": "Hello World",
+  "cardExpireDate": "04/2029",
+  "cardType":"Credit",
+  "PSOsName":"VISA"
+},
+  {
+ 
+  "myBalance": "$2000.00",
+  "cardName": "IndusInd Bank Platinum",
+  "cardHolderName": "Will Smith",
+  "cardNumber": 3214 4123 1234 1232,
+  "cardCVV": "224",
+  "cardExpireDate": "02/2027",
+  "cardType":"Credit",
+  "PSOsName":"MasterCard"
+}
+  ,{
+ 
+  "myBalance": "$2000.00",
+  "cardName": "HSBC Visa Platinum",
+  "cardHolderName": "Will Smith",
+  "cardNumber": 8982 9819 9182 1921,
+  "cardCVV": "122",
+  "cardExpireDate": "06/2029",
+  "cardType":"Credit",
+  "PSOsName":"VISA"
+}
+  ,{
+ 
+  "myBalance": "$2000.00",
+  "cardName": "Axis Visa Platnim",
+  "cardHolderName": "Will Smith",
+  "cardNumber": 123,
+  "cardCVV": "8982 9819 9182 2131",
+  "cardExpireDate": "02/2029",
   "cardType":"Credit",
   "PSOsName":"VISA"
 },
@@ -14,43 +47,10 @@
  
   "myBalance": "$2000.00",
   "cardName": "gold",
-  "cardHolderName": null,
+  "cardHolderName": "8982 9819 2345 1234h",
   "cardNumber": 123,
-  "cardCVV": "290",
-  "cardExpireDate": "Hello World",
-  "cardType":"Credit",
-  "PSOsName":"VISA"
-}
-  ,{
- 
-  "myBalance": "$2000.00",
-  "cardName": "gold",
-  "cardHolderName": null,
-  "cardNumber": 123,
-  "cardCVV": "290",
-  "cardExpireDate": "Hello World",
-  "cardType":"Credit",
-  "PSOsName":"VISA"
-}
-  ,{
- 
-  "myBalance": "$2000.00",
-  "cardName": "gold",
-  "cardHolderName": null,
-  "cardNumber": 123,
-  "cardCVV": "290",
-  "cardExpireDate": "Hello World",
-  "cardType":"Credit",
-  "PSOsName":"VISA"
-},
-  {
- 
-  "myBalance": "$2000.00",
-  "cardName": "gold",
-  "cardHolderName": null,
-  "cardNumber": 123,
-  "cardCVV": "290",
-  "cardExpireDate": "Hello World",
+  "cardCVV": "123",
+  "cardExpireDate": "01/2029",
   "cardType":"Credit",
   "PSOsName":"VISA"
 }

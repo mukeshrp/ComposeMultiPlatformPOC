@@ -56,8 +56,248 @@
       "PSOsName": "VISA"
     }
   ],
-  "TransactionList" : [
+  "TransactionList": [
     {
+      "cardId": "1",
+      "dateTime": "28 Jan 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Paid to Vishal",
+          "transactionDetail": "Monthly charges of rent",
+          "transactionAmount": 10000.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Mobile Recharge",
+          "transactionDetail": "Monthly Mobile Recharge",
+          "transactionAmount": 500.0,
+          "transactionType": "TRANSFER"
+        }
+      ]
+    },
+    {
+      "cardId": "1",
+      "dateTime": "19 Jan 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Received from Vishal",
+          "transactionDetail": "Monthly charges of rent",
+          "transactionAmount": 10000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "Internet Recharge",
+          "transactionDetail": "Internet Mobile Recharge",
+          "transactionAmount": 4000.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Petrol",
+          "transactionDetail": "Navale Bridge Petrol ",
+          "transactionAmount": 1000.0,
+          "transactionType": "TRANSFER"
+        }
+      ]
+    },
+    {
+      "cardId": "1",
+      "dateTime": "13 Jan 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Shopping",
+          "transactionDetail": "Brand Factory cloth shopping",
+          "transactionAmount": 16000.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Received From Globant",
+          "transactionDetail": "Monthly Mobile Recharge of Internet",
+          "transactionAmount": 2000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "Received From Sandeep",
+          "transactionDetail": "Sent Contri of trip",
+          "transactionAmount": 8000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "Transfer to Abc",
+          "transactionDetail": "Transfer to Abc person",
+          "transactionAmount": 13278.0,
+          "transactionType": "TRANSFER"
+        }
+      ]
+    },
+    {
+      "cardId": "1",
+      "dateTime": "01 Jan 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Zomato",
+          "transactionDetail": "Order Pizza",
+          "transactionAmount": 800.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "FlipCart Order",
+          "transactionDetail": "Shoe Order",
+          "transactionAmount": 3200.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Transfer Vaibhav",
+          "transactionDetail": "Dummy Test",
+          "transactionAmount": 1000.0,
+          "transactionType": "RECEIVED"
+        }
+      ]
+    },
+    {
+      "cardId": "1",
+      "dateTime": "30 Dec 2023",
+      "transactionItem": [
+        {
+          "transactionName": "Travel Allowance",
+          "transactionDetail": "Company Allowance",
+          "transactionAmount": 8000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "FlipCart Order",
+          "transactionDetail": "Shoe Order",
+          "transactionAmount": 3200.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Transfer Gaurav",
+          "transactionDetail": "Dummy Test",
+          "transactionAmount": 900.0,
+          "transactionType": "RECEIVED"
+        }
+      ]
+    },
+    {
+      "cardId": "1",
+      "dateTime": "28 Nov 2023",
+      "transactionItem": [
+        {
+          "transactionName": "Paid to Vishal",
+          "transactionDetail": "Monthly charges of rent",
+          "transactionAmount": 10000.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Mobile Recharge",
+          "transactionDetail": "Monthly Mobile Recharge",
+          "transactionAmount": 500.0,
+          "transactionType": "TRANSFER"
+        }
+      ]
+    },
+    {
+      "cardId": "1",
+      "dateTime": "19 Jan 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Received from Vishal",
+          "transactionDetail": "Monthly charges of rent",
+          "transactionAmount": 10000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "Internet Recharge",
+          "transactionDetail": "Internet Mobile Recharge",
+          "transactionAmount": 4000.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Petrol",
+          "transactionDetail": "Navale Bridge Petrol ",
+          "transactionAmount": 1000.0,
+          "transactionType": "TRANSFER"
+        }
+      ]
+    },
+    {
+      "cardId": "2",
+      "dateTime": "13 Feb 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Shopping",
+          "transactionDetail": "Brand Factory cloth shopping",
+          "transactionAmount": 16000.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Received From Globant",
+          "transactionDetail": "Monthly Mobile Recharge of Internet",
+          "transactionAmount": 2000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "Received From Sandeep",
+          "transactionDetail": "Sent Contri of trip",
+          "transactionAmount": 8000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "Transfer to Abc",
+          "transactionDetail": "Transfer to Abc person",
+          "transactionAmount": 13278.0,
+          "transactionType": "TRANSFER"
+        }
+      ]
+    },
+    {
+      "cardId": "2",
+      "dateTime": "01 Feb 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Zomato",
+          "transactionDetail": "Order Pizza",
+          "transactionAmount": 800.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "FlipCart Order",
+          "transactionDetail": "Shoe Order",
+          "transactionAmount": 3200.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Transfer Vaibhav",
+          "transactionDetail": "Dummy Test",
+          "transactionAmount": 1000.0,
+          "transactionType": "RECEIVED"
+        }
+      ]
+    },
+    {
+      "cardId": "2",
+      "dateTime": "30 Jan 2024",
+      "transactionItem": [
+        {
+          "transactionName": "Travel Allowance",
+          "transactionDetail": "Company Allowance",
+          "transactionAmount": 8000.0,
+          "transactionType": "RECEIVED"
+        },
+        {
+          "transactionName": "FlipCart Order",
+          "transactionDetail": "Shoe Order",
+          "transactionAmount": 3200.0,
+          "transactionType": "TRANSFER"
+        },
+        {
+          "transactionName": "Transfer Gaurav",
+          "transactionDetail": "Dummy Test",
+          "transactionAmount": 900.0,
+          "transactionType": "RECEIVED"
+        }
+      ]
+    },
+    {   "cardId" : "2",
         "dateTime": "28 Jan 2024",
         "transactionItem": [
             {
@@ -75,6 +315,7 @@
         ]
     },
     {
+      "cardId" : "2",
         "dateTime": "19 Jan 2024",
         "transactionItem": [
             {
@@ -98,6 +339,7 @@
         ]
     },
     {
+      "cardId" : "2",
         "dateTime": "13 Jan 2024",
         "transactionItem": [
             {
@@ -127,6 +369,7 @@
         ]
     },
     {
+      "cardId" : "2",
         "dateTime": "01 Jan 2024",
         "transactionItem": [
             {
@@ -150,6 +393,7 @@
         ]
     },
     {
+      "cardId" : "3",
         "dateTime": "30 Dec 2023",
         "transactionItem": [
             {
@@ -171,6 +415,244 @@
                 "transactionType": "RECEIVED"
             }
         ]
+    },
+    {   "cardId" : "3",
+        "dateTime": "28 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Paid to Kuldeep",
+                "transactionDetail": "Monthly charges of rent",
+                "transactionAmount": 21000.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Mobile Recharge",
+                "transactionDetail": "Monthly Mobile Recharge",
+                "transactionAmount": 500.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
+    },
+    {
+      "cardId" : "3",
+        "dateTime": "19 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Received from Vishu",
+                "transactionDetail": "Monthly charges of rent",
+                "transactionAmount": 3100.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Internet Recharge",
+                "transactionDetail": "Internet Mobile Recharge",
+                "transactionAmount": 400.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Petrol",
+                "transactionDetail": "Navale Bridge Petrol ",
+                "transactionAmount": 400.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
+    },
+    {
+      "cardId" : "3",
+        "dateTime": "10 Dec 2024",
+        "transactionItem": [
+            {
+                "transactionName": "Shopping",
+                "transactionDetail": "Brand Factory cloth shopping",
+                "transactionAmount": 16000.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Received From Globant",
+                "transactionDetail": "Monthly Mobile Recharge of Internet",
+                "transactionAmount": 2000.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Received From Sandeep",
+                "transactionDetail": "Sent Contri of trip",
+                "transactionAmount": 1800.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Transfer to ABV",
+                "transactionDetail": "Transfer to Abc person",
+                "transactionAmount": 13908.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
+    },
+    {
+      "cardId" : "4",
+        "dateTime": "14 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Zomato",
+                "transactionDetail": "Order Pizza",
+                "transactionAmount": 800.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Myntra Order",
+                "transactionDetail": "Shoe Order",
+                "transactionAmount": 3200.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Transfer Rahul",
+                "transactionDetail": "Dummy Test",
+                "transactionAmount": 1000.0,
+                "transactionType": "RECEIVED"
+            }
+        ]
+    },
+    {
+      "cardId" : "4",
+        "dateTime": "13 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Travel Allowance",
+                "transactionDetail": "Company Allowance",
+                "transactionAmount": 8000.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "FlipCart Order",
+                "transactionDetail": "Shoe Order",
+                "transactionAmount": 3200.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Transfer Gaurav",
+                "transactionDetail": "Dummy Test",
+                "transactionAmount": 900.0,
+                "transactionType": "RECEIVED"
+            }
+        ]
+    },
+    {   "cardId" : "4",
+        "dateTime": "12 Dec 2024",
+        "transactionItem": [
+            {
+                "transactionName": "Paid to Mahesh",
+                "transactionDetail": "Monthly charges of rent",
+                "transactionAmount": 10000.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Mobile Recharge",
+                "transactionDetail": "Monthly Mobile Recharge",
+                "transactionAmount": 1500.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
+    },
+    {
+      "cardId" : "5",
+        "dateTime": "10 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Received from Vishal",
+                "transactionDetail": "Monthly charges of rent",
+                "transactionAmount": 10000.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Internet Recharge",
+                "transactionDetail": "Internet Mobile Recharge",
+                "transactionAmount": 4000.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Petrol",
+                "transactionDetail": "Navale Bridge Petrol ",
+                "transactionAmount": 1000.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
+    },
+    {
+      "cardId" : "5",
+        "dateTime": "04 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Shopping",
+                "transactionDetail": "Brand Factory cloth shopping",
+                "transactionAmount": 16000.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Received From Globant",
+                "transactionDetail": "Monthly Mobile Recharge of Internet",
+                "transactionAmount": 2000.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Received From Sandeep",
+                "transactionDetail": "Sent Contri of trip",
+                "transactionAmount": 8000.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Transfer to Abc",
+                "transactionDetail": "Transfer to Abc person",
+                "transactionAmount": 13278.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
+    },
+    {
+      "cardId" : "5",
+        "dateTime": "02 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Zomato",
+                "transactionDetail": "Order Pizza",
+                "transactionAmount": 900.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "FlipCart Order",
+                "transactionDetail": "Cable Order",
+                "transactionAmount": 300.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Received from Vaibhav",
+                "transactionDetail": "Dummy Test",
+                "transactionAmount": 1000.0,
+                "transactionType": "RECEIVED"
+            }
+        ]
+    },
+    {
+      "cardId" : "5",
+        "dateTime": "01 Dec 2023",
+        "transactionItem": [
+            {
+                "transactionName": "Travel Allowance",
+                "transactionDetail": "Company Allowance",
+                "transactionAmount": 3000.0,
+                "transactionType": "RECEIVED"
+            },
+            {
+                "transactionName": "Amazon Order",
+                "transactionDetail": "Phone Order",
+                "transactionAmount": 10000.0,
+                "transactionType": "TRANSFER"
+            },
+            {
+                "transactionName": "Transfer Gaurav",
+                "transactionDetail": "Dummy Test",
+                "transactionAmount": 900.0,
+                "transactionType": "TRANSFER"
+            }
+        ]
     }
-]
+  ]
 }

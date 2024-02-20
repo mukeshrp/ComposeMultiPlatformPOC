@@ -7,33 +7,10 @@
 {"cardId":"1","dateTime":"28 Jan 2024","item": [{"name":"Paid to Vishal","detail":"Monthly charges of rent","amount": 1000.0,"type":"TRANSFER" },{"name":"Mobile Recharge","detail":"Mobile Recharge","amount": 500.0,"type":"TRANSFER" }] },
 {"cardId":"1","dateTime":"19 Jan 2024","item": [{"name":"Received from Vishal","detail":"Monthly charges of rent","amount": 1000.0,"type":"RECEIVED" },{"name":"Internet Recharge","detail":"Internet Mobile Recharge","amount": 400.0,"type":"TRANSFER" },{"name":"Petrol","detail":"Navale Bridge Petrol","amount": 100.0,"type":"TRANSFER" }]},
 { "cardId":"1","dateTime":"01 Jan 2024","item": [{"name":"Zomato","detail":"Order Pizza","amount": 800.0,"type":"TRANSFER" },{"name":"FlipCart Order","detail":"Shoe Order","amount": 3200.0,"type":"TRANSFER" },{"name":"Transfer Vaibhav","detail":"Dummy Test","amount": 100.0,"type":"RECEIVED" }] },
+{"cardId":"1","dateTime":"30 Dec 2023","item": [{"name":"Travel Allowance","detail":"Company Allowance","amount": 800.0,"type":"RECEIVED"},{"name":"FlipCart Order","detail":"Shoe Order","amount": 3200.0,"type":"TRANSFER"},{"name":"Transfer Gaurav","detail":"Dummy Test",   "amount": 900.0,"type":"RECEIVED"}]},
 {
    "cardId":"1",
-   "dateTime":"30 Dec 2023",
-   "item": [
-{
-   "name":"Travel Allowance",
-   "detail":"Company Allowance",
-   "amount": 800.0,
-   "type":"RECEIVED"
-},
-{
-   "name":"FlipCart Order",
-   "detail":"Shoe Order",
-   "amount": 3200.0,
-   "type":"TRANSFER"
-},
-{
-   "name":"Transfer Gaurav",
-   "detail":"Dummy Test",
-   "amount": 900.0,
-   "type":"RECEIVED"
-}
-]
-},
-{
-   "cardId":"1",
-   "dateTime":"28 Nov 2023",
+   "dateTime":"28 Dec 2023",
    "item": [
 {
    "name":"Paid to Vishal",
@@ -51,7 +28,7 @@
 },
 {
    "cardId":"1",
-   "dateTime":"19 Jan 2024",
+   "dateTime":"27 Dec 2023",
    "item": [
 {
    "name":"Received from Vishal",
@@ -75,7 +52,7 @@
 },
 {
    "cardId":"2",
-   "dateTime":"13 Feb 2024",
+   "dateTime":"26 Dec 2023",
    "item": [
 {
    "name":"Shopping",
@@ -105,7 +82,7 @@
 },
 {
    "cardId":"2",
-   "dateTime":"01 Feb 2024",
+   "dateTime":"26 Dec 2023",
    "item": [
 {
    "name":"Zomato",
@@ -129,7 +106,7 @@
 },
 {
    "cardId":"2",
-   "dateTime":"30 Jan 2024",
+   "dateTime":"25 Dec 2023",
    "item": [
 {
    "name":"Travel Allowance",
@@ -152,7 +129,7 @@
 ]
 },
 {  "cardId" :"2",
-   "dateTime":"28 Jan 2024",
+   "dateTime":"24 Dec 2023",
    "item": [
 {
    "name":"Paid to Vishal",
@@ -170,7 +147,7 @@
 },
 {
    "cardId" :"2",
-   "dateTime":"19 Jan 2024",
+   "dateTime":"23 Dec 2023",
    "item": [
 {
    "name":"Received from Vishal",
@@ -194,7 +171,7 @@
 },
 {
    "cardId" :"2",
-   "dateTime":"13 Jan 2024",
+   "dateTime":"22 Dec 2023",
    "item": [
 {
    "name":"Shopping",
@@ -224,7 +201,7 @@
 },
 {
    "cardId" :"2",
-   "dateTime":"01 Jan 2024",
+   "dateTime":"20 Dec 2023",
    "item": [
 {
    "name":"Zomato",
@@ -248,7 +225,7 @@
 },
 {
    "cardId" :"3",
-   "dateTime":"30 Dec 2023",
+   "dateTime":"19 Dec 2023",
    "item": [
 {
    "name":"Travel Allowance",
@@ -271,7 +248,7 @@
 ]
 },
 {  "cardId" :"3",
-   "dateTime":"28 Dec 2023",
+   "dateTime":"18 Dec 2023",
    "item": [
 {
    "name":"Paid to Kuldeep",
@@ -289,7 +266,7 @@
 },
 {
    "cardId" :"3",
-   "dateTime":"19 Dec 2023",
+   "dateTime":"17 Dec 2023",
    "item": [
 {
    "name":"Received from Vishu",
@@ -311,38 +288,10 @@
 }
 ]
 },
-{
-   "cardId" :"3",
-   "dateTime":"10 Dec 2024",
-   "item": [
-{
-   "name":"Shopping",
-   "detail":"Brand Factory cloth shopping",
-   "amount": 1600.0,
-   "type":"TRANSFER"
-},
-{
-   "name":"Received From Globant",
-   "detail":"Mobile Recharge",
-   "amount": 200.0,
-   "type":"RECEIVED"
-},
-{
-   "name":"Received From Sandeep",
-   "detail":"Sent Contri of trip",
-   "amount": 1800.0,
-   "type":"RECEIVED"
-},
-{
-   "name":"Transfer to ABV",
-   "detail":"Transfer to Abc",
-   "amount": 120.0,
-   "type":"TRANSFER"
-}
-]
-},
+{"cardId" :"3","dateTime":"16 Dec 2023","item": [{"name":"Shopping","detail":"Brand Factory cloth shopping","amount": 1600.0,"type":"TRANSFER"},{"name":"Received From Globant","detail":"Mobile Recharge","amount": 200.0,"type":"RECEIVED"},{"name":"Received From Sandeep","detail":"Sent Contri of trip","amount": 1800.0,"type":"RECEIVED"},{"name":"Transfer to ABV","detail":"Transfer to Abc","amount": 120.0,"type":"TRANSFER"}]},
+{  "cardId" :"4","dateTime":"15 Dec 2023","item": [{"name":"Paid to Mahesh","detail":"Monthly charges of rent","amount": 1000.0,"type":"TRANSFER" },{"name":"Mobile Recharge","detail":"Mobile Recharge","amount": 1500.0,"type":"TRANSFER" }] },
 {"cardId" :"4","dateTime":"14 Dec 2023","item": [{"name":"Zomato","detail":"Order Pizza","amount": 800.0,"type":"TRANSFER" },{"name":"Myntra Order","detail":"Shoe Order","amount": 3200.0,"type":"TRANSFER" },{"name":"Transfer Rahul","detail":"Dummy Test","amount": 100.0,"type":"RECEIVED" }] },
 {"cardId" :"4","dateTime":"13 Dec 2023","item": [{"name":"Travel Allowance","detail":"Company Allowance","amount": 800.0,"type":"RECEIVED" },{"name":"FlipCart Order","detail":"Shoe Order","amount": 3200.0,"type":"TRANSFER" },{"name":"Transfer Gaurav","detail":"Dummy Test","amount": 900.0,"type":"RECEIVED" }] },
-{  "cardId" :"4","dateTime":"12 Dec 2024","item": [{"name":"Paid to Mahesh","detail":"Monthly charges of rent","amount": 1000.0,"type":"TRANSFER" },{"name":"Mobile Recharge","detail":"Mobile Recharge","amount": 1500.0,"type":"TRANSFER" }] }
+{  "cardId" :"4","dateTime":"12 Dec 2023","item": [{"name":"Paid to Mahesh","detail":"Monthly charges of rent","amount": 1000.0,"type":"TRANSFER" },{"name":"Mobile Recharge","detail":"Mobile Recharge","amount": 1500.0,"type":"TRANSFER" }] }
 ]
 }

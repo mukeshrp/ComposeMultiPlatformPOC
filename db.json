@@ -1,7 +1,7 @@
 {"CardModel": [{"cardId":"1","myBalance":"2210.00","cardName":"HDFC Platinum","cardHolderName":"Will Smith","cardNumber":"1234 2314 9081 1123","cardCVV":"290","cardExpireDate":"04/2029","cardType":"Credit","PSOsName":"VISA" },
 {"cardId":"2","myBalance":"2300.00","cardName":"IndusInd Bank Platinum","cardHolderName":"Will Smith","cardNumber":"3214 4123 1234 1232","cardCVV":"224","cardExpireDate":"02/2027","cardType":"Credit","PSOsName":"MasterCard" },
 {"cardId":"3","myBalance":"1100.00","cardName":"HSBC Platinum","cardHolderName":"Will Smith","cardNumber":"8982 9819 9182 1921","cardCVV":"122","cardExpireDate":"06/2029","cardType":"Credit","PSOsName":"VISA" },
-{"cardId":"4","myBalance":"1000.00","cardName":"Axis  Platinum","cardHolderName":"Will Smith","cardNumber": 123,"cardCVV":"8982 9819 9182 2131","cardExpireDate":"02/2029","cardType":"Credit","PSOsName":"VISA" }
+{"cardId":"4","myBalance":"1000.00","cardName":"Axis  Platinum","cardHolderName":"Will Smith","cardNumber": 8982 9819 9182 2131,"cardCVV":"213","cardExpireDate":"02/2029","cardType":"Credit","PSOsName":"VISA" }
 ],
    "TransactionList": [
 {"cardId":"1","dateTime":"28 Jan 2024","item": [{"name":"Paid to Vishal","detail":"Monthly charges of rent","amount": 1000.0,"type":"TRANSFER" },{"name":"Mobile Recharge","detail":"Mobile Recharge","amount": 500.0,"type":"TRANSFER" }] },
